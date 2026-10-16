@@ -10,6 +10,7 @@
     <h1>Café Byte</h1>
     <nav>
        <a href="contacto.html">Contacto</a>
+	<a href="menu.html">Menú</a>
       <a href="index.html">Inicio</a>
     </nav>
   </header>

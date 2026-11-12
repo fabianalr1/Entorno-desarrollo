@@ -1,6 +1,6 @@
 \# mi proyecto daw
 
-proyecto de desarrollo de aplicaciones web.
+proyecto DAW: rama main
 
 este proyecto corresponde a entornos de desarrollo
 

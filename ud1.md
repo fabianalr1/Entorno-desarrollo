@@ -1,3 +1,3 @@
 # unidad 1 - Entornos de desarrollo
 
-Git permite controlar las versiones de un proyecto.
+Git permite organizar y guardar las versiones de un proyecto

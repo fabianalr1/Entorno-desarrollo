@@ -1,6 +1,6 @@
-\# mi proyecto daw
+\# Mi proyecto DAW
 
-proyecto DAW: rama main
+Proyecto DAW: rama principal.
 
-este proyecto corresponde a entornos de desarrollo
+Este proyecto corresponde a Entornos de Desarrollo.
 

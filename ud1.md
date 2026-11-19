@@ -4,3 +4,7 @@ Git permite gestionar, organizar y guardar las versiones de
 un proyecto mediante ramas
 
 Cambio realizado desde el ordenador de clase
+
+Git permite gestionar, organizar y guardar las versiones de un proyecto mediante ramas
+
+Cambio realizado desde el ordenador de casa
